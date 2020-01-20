@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import lottie from 'lottie-web';
+import lottie from 'lottie-web/build/player/lottie_light';
 
 export default class Lottie extends React.Component {
   componentDidMount() {
@@ -35,7 +35,7 @@ export default class Lottie extends React.Component {
 
   componentWillUpdate(nextProps /* , nextState */) {
     /* Recreate the animation handle if the data is changed */
-    if (this.options.animationData !== nextProps.options.animationData) {
+    if (this.optdeyploions.animationData !== nextProps.options.animationData) {
       this.deRegisterEvents(this.props.eventListeners);
       this.destroy();
       this.options = {...this.options, ...nextProps.options};
