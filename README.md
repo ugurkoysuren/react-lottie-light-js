@@ -1,4 +1,4 @@
-# Lottie Animation View for React ([Angular](https://github.com/chenqingspring/ng-lottie), [Vue](https://github.com/chenqingspring/vue-lottie))
+# React Lottie Light JS Animation View for React 
 
 [![npm version](https://badge.fury.io/js/react-lottie-light-js.svg)](https://badge.fury.io/js/react-lottie-light-js.svg)
 
