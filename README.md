@@ -5,8 +5,8 @@
 ## Why Lottie-light-js?
 
 
-This is a fork, in order to use react-lottie with the lottie-light version.
-
+This is a fork, in order to use react-lottie with the lottie-light version. If you use Lottie on React and have CPU issues, 
+this is the lib you need.
 
 
 
